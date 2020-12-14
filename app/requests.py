@@ -1,3 +1,4 @@
+
 import requests,json
 
 def get_quotes():
