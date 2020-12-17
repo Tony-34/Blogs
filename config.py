@@ -11,7 +11,7 @@ class Config:
     MAIL_PORT = 587
     MAIL_USE_TLS = True
     MAIL_USERNAME = 'tr33947@gmail.com'
-    MAIL_PASSWORD = 'Avamara34'
+    MAIL_PASSWORD = 'Avamara47'
     print(MAIL_USERNAME)
     print(MAIL_PASSWORD)
       # simple mde  configurations
